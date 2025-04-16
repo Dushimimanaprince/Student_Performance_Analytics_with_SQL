@@ -31,4 +31,17 @@ This project showcases the application of SQL window functions in Oracle, utiliz
 - Used `LAG()` and `LEAD()` on salary to determine if an employee's salary is **HIGHER, LOWER, or EQUAL** to the previous employee.
 
   ![Compare Values with Previous or Next Records ](https://github.com/Dushimimanaprince/new/blob/9df07c07c3ca4371581cc675cf24c4e5059be2a1/7.png)
+
+  ### 🥇🥈🥉 Identifying Top Records
+- Fetched **top 3 highest scores per department** using `RANK()`.
+
+  ![Identifying Top 3 Records per Department ](https://github.com/Dushimimanaprince/new/blob/9df07c07c3ca4371581cc675cf24c4e5059be2a1/9.png)
+
+
+### 🚪👥⏰ Finding the Earliest Records
+- Used `ROW_NUMBER()` to retrieve the **first 2 student** to join each department.
+
+  ![Finding the Earliest Records ](https://github.com/Dushimimanaprince/new/blob/9df07c07c3ca4371581cc675cf24c4e5059be2a1/10.png)
+
+
   
