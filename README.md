@@ -43,5 +43,38 @@ This project showcases the application of SQL window functions in Oracle, utiliz
 
   ![Finding the Earliest Records ](https://github.com/Dushimimanaprince/new/blob/9df07c07c3ca4371581cc675cf24c4e5059be2a1/10.png)
 
+  ### 📈🏢🌍 Aggregation with Window Functions
+- Calculated **Maximum Score** per department and overall.
+- Used `PARTITION BY` to distinguish between category-level and overall calculations.
+
+  ![Aggregation with Window Functions (Max Salaries)](https://github.com/Dushimimanaprince/new/blob/9df07c07c3ca4371581cc675cf24c4e5059be2a1/11Qpng)
+
+
+## ⚙️ Technology
+- Oracle SQL Developer
+- GitHub for version control
+
+## 📷 Optional
+- Screenshots
+
+---
+
+## 📁 Files Included
+
+- `dataset.sql` – Creates and populates all 3 tables.
+- `Queries.sql` – All required queries with window functions.
+- `README.md` – Project summary, explanation, and documentation.
+
+---
+
+### 🧠 Real-World Applications
+✅ 1. Track Student Progress Over Time
+
+✅ 2. Rank Students Fairly Within Departments
+
+✅ 3. Department-Level Insights & Comparisons
+
+
+
 
   
