@@ -1,7 +1,5 @@
 # Student Performance Analytics
 The "Student Performance Analytics" project was collaboratively developed by Prince and Kevin. We worked together using GitHub to coordinate our efforts on PL/SQL window function queries, promoting mutual learning and producing a well-integrated outcome..
-## 👥 Team Members
-- 27555 Dushimimana Prince
 
 
 ## 📂 Project Name: Student Performance Analytics
